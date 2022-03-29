@@ -1,19 +1,21 @@
 # pokemons-vue
 
-## Project setup
-```
-npm install
-```
+======
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+###
 
-### Compiles and minifies for production
-```
-npm run build
-```
+#### version v0.1.0
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Используемые технологии:
+
+- Vue 2
+- Vue-router
+- VueX
+- Axios
+- Vuetify
+
+Инструкция по развертыванию проекта:
+
+1. Склонировать в локальный репозиторий - git clone https://github.com/AndreyZadachin/pokemons-vue
+2. Установить пакеты (должен быть установлен node.js <https://nodejs.org/en/>) - npm i
+3. Запуск на локальном сервере - npm run serve
